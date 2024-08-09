@@ -1,6 +1,9 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
- 
+
+#Math
+#Bit Manipulation
+
 class Solution(object):
     def numberOfSteps(self, num):
         """
