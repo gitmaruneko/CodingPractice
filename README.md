@@ -1,4 +1,4 @@
-# Codeing Practice
+# Coding Practice
 
 ## REF
 
